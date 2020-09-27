@@ -1,7 +1,7 @@
 @media (max-width: 900px) {
 
     .homescreenheader {
-        color: red;
+        color: white;
         position: absolute;
         top: 0%;
         left: 40%;
@@ -46,7 +46,7 @@
 @media (max-width: 600px) {
 
     .homescreenheader {
-        color: red;
+        color: White;
         position: absolute;
         top: 0%;
         left: 30%;
@@ -81,6 +81,48 @@
         position: absolute;
         top: 75%;
         left: 37%;
+        transform: translate(50% -50%);
+    }
+}
+
+@media (max-width: 300px) {
+
+    .homescreenheader {
+        color: White;
+        position: absolute;
+        top: 0%;
+        left: 26%;
+        transform: translate(50% -50%);
+    }
+
+    .homescreentext {
+        position: absolute;
+        top: 7%;
+        left: 7%;
+        transform: translate(50% -50%);
+    }
+
+    .pageone {
+        padding: 15px 30.5px 15px 30.5px;
+        position: absolute;
+        top: 55%;
+        left: 35%;
+        transform: translate(50% -50%);
+    }
+
+    .pagetwo {
+        padding: 15px 20px 15px 20px;
+        position: absolute;
+        top: 65%;
+        left: 35%;
+        transform: translate(50% -50%);
+    }
+
+    .more {
+        padding: 15px 50px 15px 50px;
+        position: absolute;
+        top: 75%;
+        left: 35%;
         transform: translate(50% -50%);
     }
 }
