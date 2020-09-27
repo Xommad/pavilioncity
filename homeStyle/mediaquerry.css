@@ -1,0 +1,86 @@
+@media (max-width: 900px) {
+
+    .homescreenheader {
+        color: red;
+        position: absolute;
+        top: 0%;
+        left: 40%;
+        transform: translate(50% -50%);
+    }
+
+    .homescreentext {
+        color: white;
+        text-align: center;
+        position: absolute;
+        top: 7%;
+        left: 29%;
+        transform: translate(50% -50%);
+        font-size: 20px;
+    }
+
+    .pageone {
+        padding: 15px 30.5px 15px 30.5px;
+        position: absolute;
+        top: 55%;
+        left: 44%;
+        transform: translate(50% -50%);
+    }
+
+    .pagetwo {
+        padding: 15px 20px 15px 20px;
+        position: absolute;
+        top: 65%;
+        left: 44%;
+        transform: translate(50% -50%);
+    }
+
+    .more {
+        padding: 15px 50px 15px 50px;
+        position: absolute;
+        top: 75%;
+        left: 44%;
+        transform: translate(50% -50%);
+    }
+}
+
+@media (max-width: 600px) {
+
+    .homescreenheader {
+        color: rebeccapurple;
+        position: absolute;
+        top: 0%;
+        left: 34%;
+        transform: translate(50% -50%);
+    }
+
+    .homescreentext {
+        position: absolute;
+        top: 7%;
+        left: 15%;
+        transform: translate(50% -50%);
+    }
+
+    .pageone {
+        padding: 15px 30.5px 15px 30.5px;
+        position: absolute;
+        top: 55%;
+        left: 40%;
+        transform: translate(50% -50%);
+    }
+
+    .pagetwo {
+        padding: 15px 20px 15px 20px;
+        position: absolute;
+        top: 65%;
+        left: 40%;
+        transform: translate(50% -50%);
+    }
+
+    .more {
+        padding: 15px 50px 15px 50px;
+        position: absolute;
+        top: 75%;
+        left: 40%;
+        transform: translate(50% -50%);
+    }
+}

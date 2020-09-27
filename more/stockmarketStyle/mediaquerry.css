@@ -1,0 +1,69 @@
+@media (max-width: 1200px) {
+    .bigcoin {
+        background: none;
+        padding: 0px 0px 0px 0px;
+        text-align: center;
+        position: absolute;
+        left: 46.5%;
+        transform: translate(50% -50%);
+    }
+
+    .bigcoinDescription {
+        position: absolute;
+        top: 20%;
+        left: 45.6%;
+        transform: translate(50% -50%);
+    }
+
+    .bigcoinpastNumber {
+        position: absolute;
+        top: 24%;
+        left: 46.4%;
+        transform: translate(50% -50%);
+    }
+
+    .buystockBigcoin {
+        position: absolute;
+        top: 42%;
+        left: 45.5%;
+        transform: translate(50% -50%);
+    }
+}
+
+@media (max-width: 600px) {
+
+    h2 {
+        position: absolute;
+        top: 10%;
+        left: 42%;
+        transform: translate(50% -50%);
+    }
+
+    .bigcoin {
+        position: absolute;
+        top: 15%;
+        left: 43%;
+        transform: translate(50% -50%);
+    }
+
+    .bigcoinDescription {
+        position: absolute;
+        top: 20%;
+        left: 41%;
+        transform: translate(50% -50%);
+    }
+
+    .bigcoinpastNumber {
+        position: absolute;
+        top: 24%;
+        left: 43%;
+        transform: translate(50% -50%);
+    }
+
+    .buystockBigcoin {
+        position: absolute;
+        top: 42%;
+        left: 40%;
+        transform: translate(50% -50%);
+    }
+}

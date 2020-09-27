@@ -1,0 +1,40 @@
+@media only screen and (max-width: 900px) {
+    .homebutton {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        transform: translate(50% -50%);
+    }
+
+    .rumor4button {
+        position: absolute;
+        top: 12%;
+        left: 0%;
+        transform: translate(50% -50);
+    }
+
+    h1 {
+        position: absolute;
+        top: -20%;
+        left: -2%;
+        transform: translate(50% -50%);
+        margin: 20%;
+        margin-top: 40%;
+    }
+
+    h3 {
+        position: absolute;
+        top: 45%;
+        left: 35%;
+        transform: translate(50% -50%);
+        text-align: center;
+    }
+
+    .schoolsarebadDescription {
+        position: absolute;
+        top: 15%;
+        left: 0%;
+        transform: translate(50% -50%);
+        margin-top: 20%;
+    }
+}

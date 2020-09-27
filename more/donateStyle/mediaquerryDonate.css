@@ -1,0 +1,67 @@
+@media only screen and (max-width: 1200px) {
+
+    .moneyamount {
+        position: absolute;
+        top: 5%;
+        left: 42%;
+        transform: translate(50% -50%);
+    }
+
+    .donationDescription {
+        position: absolute;
+        top: 14%;
+        left: 41%;
+        transform: translate(50% -50%);
+    }
+
+    .sendmailButton {
+        position: absolute;
+        top: 22%;
+        left: 40.5%;
+        transform: translate(50% -50%);
+    }
+
+    .howdoesitworksDescription {
+        color: white;
+        position: absolute;
+        top: 17%;
+        left: 10%;
+        transform: translate(50% -50%);
+        margin: 20%;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+
+    .gobackhomeButton {
+        position: absolute;
+        top: 0%;
+        left: 41.5%;
+        transform: translate(50% -50%);
+    }
+
+    .moneyamount {
+        position: absolute;
+        left: 33%;
+        transform: translate(50% -50%);
+    }
+
+    .donationDescription {
+        position: absolute;
+        left: 29.5%;
+    }
+
+    .sendmailButton {
+        position: absolute;
+        left: 28%;
+        transform: translate(50% -50%);
+    }
+
+    .howdoesitworksDescription {
+        color: white;
+        margin: 10%;
+        position: absolute;
+        top: 25%;
+        transform: translate(50% -50%);
+    }
+}
