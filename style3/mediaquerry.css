@@ -1,0 +1,15 @@
+@media (max-width: 1000px) {
+    .whatisaonlinepredator2 {
+        color: rebeccapurple;
+    }
+
+    .predatorDescription {
+        margin: 20%;
+        position: absolute;
+        top: 10%;
+    }
+
+    .whosfaultisthis {
+        letter-spacing: 0.2cm;
+    }
+}
